@@ -1,12 +1,13 @@
 ### Hi, Welcome to my Github profile 👋
 <hr>
-<img align="right" style="margin-bottom : 5px" height="150" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+<img align="right" height="150" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 ### About Me 😎
 - 👨‍🎓 B.Tech - IT'23 from IET Lucknow
 - :computer: Competitive Programmer, Web Developer<br>
 - 🤔 Currently learning Data Structures & Algorithms<br>
 - 👯 Open to collaborations on Web Projects<br>
+- 🎤 Singer, Guitarist, Dancer
 <hr>
 
 ### Tools/Technologies I work with 🛠️
