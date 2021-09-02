@@ -7,7 +7,7 @@
 - 👨‍🎓 B.Tech - IT'23 from IET Lucknow
 - :computer: Competitive Programmer, Web Developer<br>
 - 🤔 Currently learning Data Structures & Algorithms<br>
-- 👯 Open to collaborations on web projects<br>
+- 👯 Open to collaborations on Web Projects<br>
 <hr>
 
 ### Tools/Technologies I work with 🛠️
