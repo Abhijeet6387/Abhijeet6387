@@ -2,6 +2,7 @@
 <hr>
 <img align="right" height="150" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
+
 ### About Me 😎
 - 👨‍🎓 B.Tech - IT'23 from IET Lucknow
 - :computer: Competitive Programmer, Web Developer<br>
