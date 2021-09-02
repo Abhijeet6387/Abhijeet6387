@@ -1,7 +1,7 @@
 ### Hi, Welcome to my Github profile 👋
 <hr>
 <img align="right" height="150" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-
+<br>
 
 ### About Me 😎
 - 👨‍🎓 B.Tech - IT'23 from IET Lucknow
