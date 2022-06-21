@@ -32,5 +32,5 @@
   <img align="left" alt="Abhijeet's LinkdeIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg?raw=true"/>
 </a>
 <a href="https://www.instagram.com/abhijeet_shankar_mishra/">
-  <img align="left" alt="Abhijeet's Instagram" width="22px" src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif?raw=true"/>
+  <img align="left" alt="Abhijeet's Instagram" width="28px" src="https://img.icons8.com/color/344/instagram-new--v1.png">
 </a>
