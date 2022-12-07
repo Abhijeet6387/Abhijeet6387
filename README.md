@@ -8,6 +8,7 @@
 - 🤔 Currently learning Data Structures & Algorithms<br>
 - 👯 Open to collaborations on Web Projects<br>
 - 🎤 Singer, Guitarist, Dancer
+- ✉️ Contact me at abhijeet.s.mishra@gmail.com
 <hr>
 
 ### Tools/Technologies I work with 🛠️
@@ -26,11 +27,3 @@
  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30px"></span>
 <hr>
-
-### Contact Me 😅
-<a href="https://www.linkedin.com/in/abhijeet-shankar-mishra-9022781ab/">
-  <img align="left" alt="Abhijeet's LinkdeIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg?raw=true"/>
-</a>
-<a href="https://www.instagram.com/abhijeet_shankar_mishra/">
-  <img align="left" alt="Abhijeet's Instagram" width="28px" src="https://img.icons8.com/color/344/instagram-new--v1.png">
-</a>
