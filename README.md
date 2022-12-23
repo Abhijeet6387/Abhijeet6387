@@ -27,3 +27,7 @@
  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30px"></span>
 <hr>
+
+### Some Stats😎
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhijeet6387&show_icons=true&locale=en&layout=compact" alt="AbhijeetMishra" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhijeet6387&show_icons=true&locale=en" alt="AbhijeetMishra" /></p>
